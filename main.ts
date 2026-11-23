@@ -6,7 +6,10 @@
 // day one (bare grey level, one coin) and after seven days of daily updates
 // (colour, HUD, slimes, sparkles, goal flag), closing on the newer build and an
 // invitation to start at make.fun, and ending with make.fun's official
-// press-pack referral end card carrying the account's referral code.
+// press-pack referral end card carrying the account's referral code. The game
+// itself (Sprout Dash) was written by the agent as a single HTML file, and the
+// video was rendered from its two builds with ffmpeg; both steps are in the
+// sessions uploaded with this entry.
 //
 // This program's whole job is to hand the video's address to the grader: it
 // copies VIDEO.json from the repository root into the output directory, where
